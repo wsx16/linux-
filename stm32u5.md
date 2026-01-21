@@ -1,7 +1,5 @@
 ![](assets/stm32u5/file-20251224140536538.png)
 
-
-
 ![](assets/stm32u5/file-20251225174418692.png)
 一字节 = 2位16进制 = 1一个uint8_t = 8bits
 01 01 c1 e0
